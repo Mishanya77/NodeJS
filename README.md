@@ -1,1 +1,2 @@
-Домашнее задание №3
+# goit-nodejs-hw
+NodeJS practice
